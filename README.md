@@ -5,7 +5,7 @@
 
 <table>
 
-<b><i>bhel</i></b>
+<b><i>Bharat Heavy Electricals Limited (BHEL) </i></b>
 
 <tr>
 
