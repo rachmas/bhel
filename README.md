@@ -30,7 +30,7 @@
 <tr>
 
 <th>meta description</th>
-<td>Meta Description not Found <td>
+<td>Meta Description not Found </td>
 <td>Most search engines will truncate Meta descriptions to 160 characters.Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
 <td>not good</td><br>
 
