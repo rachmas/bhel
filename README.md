@@ -8,7 +8,7 @@
 <b><i>Bharat Heavy Electricals Limited (BHEL) </i></b>
 
 <tr>
-
+<th><b> s.no</b></th>
 <th><b> title</b></th>
 <td><b>description</b></td>
 <td><b> suggestion</b></td>
@@ -18,7 +18,7 @@
 </tr>
 
 <tr>
-
+<th>1</th>
 <th>page title</th>
 
 <td> The Page title length of your page is 0 characters. </td>
@@ -28,7 +28,7 @@
 </tr>
 
 <tr>
-
+<th>2</th>
 <th>meta description</th>
 <td>Meta Description not Found </td>
 <td>Most search engines will truncate Meta descriptions to 160 characters.Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
@@ -38,7 +38,7 @@
 </tr>
 
 <tr>
-
+<th>3</th>
 <th>keywords test</th>
 <td>There is likely no optimal keyword density </td>
 <td>search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor). It can be useful, however, to note which keywords appear most often in your page, and if they reflect the intended topic of your page. More importantly, the keywords in your page should appear within natural sounding and grammatically correct copy.</td>
@@ -47,7 +47,7 @@
 </tr>
 
 <tr>
-
+<th>4</th>
 <th>Meta keywords</th>
 
 <td>The Meta keywords length of your page is 0 characters.</td>
@@ -59,7 +59,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>5</th>
 <th>html page size test</th>
 
 <td>Your HTML size is 106.99 Kb and this is above the average web page size of 33 Kb. </td>
@@ -69,7 +69,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>6</th>
 <th>html compreession test</th>
 
 <td>Your page is not using gzip compression on your code.</td>
@@ -80,7 +80,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>7</th>
 <th>Noindex Tag Checker</th>
 <td>Your webpage does not use the noindex meta tag</td>
 <td> This means that your webpage will be read and indexed by search engines.</td>
@@ -89,7 +89,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>8</th>
 <th>image alt test</th>
 <td>Your webpage has 159 'img' tags and only 143 of them missing the 'alt' attribute</td>
 <td>It is imp to have .The alt attribute's descriptive information is useful to assist visually impaired customers and search engine crawlers as they navigate the site.</td>
@@ -97,7 +97,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>9</th>
 <th>site maps</th>
 
 <td>1site map in this website</td>
@@ -107,7 +107,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>10</th>
 <th>H1 tag</th>
 
 <td>No H1 headings Found</td>
@@ -115,6 +115,7 @@ Google Does not accept Meta keywords any more.</td>
 <td>not good</td><br>
 </tr>
 <tr>
+<th>11</th>
 <th>H2 tag</th>
 <td>no H2 headings found</td>
 <td>H2 tags are important to the search engines . Unlike the H1 tag, you may have multiple H3, H4, H5, and H6 sub-headings. These sub-headings as ways of organizing the content on your page for your readers more than for the search engines.</td>
@@ -122,6 +123,7 @@ Google Does not accept Meta keywords any more.</td>
 
 </tr>
 <tr>
+<th>12</th>
 <th>Domain Authority</th>
 <td>Domain authority of your website is 45.47. </td>
 <td>It is good to have domain authority more than 20.</td>
@@ -129,6 +131,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
+<th>13</th>
 <th>Page Authority	</th>
 <td>Page authority of your website is 34.33. </td>
 <td>It is good to have page authority more than 20</td>
@@ -136,6 +139,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
+<th>14</th>
 <th>Favicon Test</th>
 <td>Your website appears to have a favicon.</td>
 <td>Create a favourite icon to give your web site a more professional perspective.</td>
@@ -143,6 +147,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
+<th>15</th>
 <th>Robots.txt Test</th>
 <td>Your site does not use "robots.txt" file</td>
 <td>There are a few ways to block search engines from accessing a given domain: Block with Robots.tx. This tells the engines not to crawl the given URL, but that they may keep the page in the index and display it in results.</td>
@@ -150,6 +155,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
+<th>16</th>
 <th>Broken Links Test</th>
 <td>From 43 distinct anchor links analyzed, none of them appears to be broken.</td>
 <td>Make sure that when you remove part of the URL the link does not lead to a non-valid page.</td>
@@ -157,6 +163,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
+<th>17</th>
 <th>SEO Friendly URL Test</th>
 <td>23 internal urls found that are not seo friendly.</td>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, uppercase Alphabets and special chars (e-g: & ? %) are not seo friendly.</td>
@@ -165,6 +172,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>18</th>
 <th>Nofollow Tag Checker</th>
 <td>Your webpage does not use the nofollow meta tag.</td>
 <td>This means that search engins will crawl all links from your webpage.</td>
@@ -173,6 +181,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>19</th>
 <th>redirection Test</th>
 <td>no there is not</td>
 <td>Warning, redirect is not place to redirect traffic from your non-preferred domain. your website does not directs www.bhel.com and bhel.com to the same URL.</td>
@@ -182,6 +191,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>20</th>
 <th>Google Search Results Preview</th>
 <td>http://www.bhel.com/home.php</td>
 <td>function check1() { if(document.site_search.q.value=="") { alert("Please enter the keywords of your search"); return false..</td>
@@ -190,6 +200,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>21</th>
 <th>Keywords Test</th>
 <td>There is likely no optimal keyword density</td>
 <td>search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor). It can be useful, however, to note which keywords appear most often in your page, and if they reflect the intended topic of your page. More importantly, the keywords in your page should appear within natural sounding and grammatically correct copy.⟩⟩ bhel - 32 times
@@ -202,6 +213,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>22</th>
 <th>Keywords Test</th>
 <td>Your most common keywords are not appearing in one or more of the meta-tags above</td>
 <td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.
