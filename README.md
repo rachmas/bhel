@@ -42,7 +42,7 @@
 <th>keywords test</th>
 <td>There is likely no optimal keyword density </td>
 <td>search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor). It can be useful, however, to note which keywords appear most often in your page, and if they reflect the intended topic of your page. More importantly, the keywords in your page should appear within natural sounding and grammatically correct copy.</td>
-<td>info</td><br>
+<td>ok</td><br>
 
 </tr>
 
@@ -195,7 +195,7 @@ Google Does not accept Meta keywords any more.</td>
 <th>Google Search Results Preview</th>
 <td>http://www.bhel.com/home.php</td>
 <td>function check1() { if(document.site_search.q.value=="") { alert("Please enter the keywords of your search"); return false..</td>
-<td>info</td><br>
+<td>ok</td><br>
 </tr>
 
 
@@ -208,7 +208,7 @@ Google Does not accept Meta keywords any more.</td>
 ⟩⟩ document - 11 times
 ⟩⟩ date - 9 times
 ⟩⟩ function - 8 times</td>
-<td>info</td><br>
+<td>ok</td><br>
 </tr>
 
 
@@ -219,7 +219,7 @@ Google Does not accept Meta keywords any more.</td>
 <td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.
 ⟩⟩  Keyword(s) not included in Meta-Title
 ⟩⟩  Keyword(s) not included in Meta-Description</td>
-<td>info</td><br>
+<td>ok</td><br>
 </tr>
 
 
